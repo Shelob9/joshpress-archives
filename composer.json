@@ -1,0 +1,14 @@
+{
+    "name": "shelob9/jospress-archives",
+    "description": "Easy Queries-powered archives for JoshPress.net",
+    "type": "wordpress-plugin",
+    "license": "gplv2+",
+    "authors": [
+        {
+            "name": "Josh Pollock",
+            "email": "Josh@JoshPress.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
